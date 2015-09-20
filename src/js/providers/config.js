@@ -7,7 +7,7 @@
             defaultLang: "en",
 
             listUrl: "http://localhost:8080",
-            uploadUrl: "http://localhost:8080",
+            uploadUrl: "http://localhost:8080/upload",
             renameUrl: "http://localhost:8080",
             copyUrl: "http://localhost:8080",
             removeUrl: "http://localhost:8080",
